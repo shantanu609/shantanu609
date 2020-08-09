@@ -3,7 +3,7 @@
 <p> I'm Shantanu. I am a Graduate Student at Fresno State. Worked as a Software Engineer for 3+ years and currently a Full time Graduate Student mastering and griding Full Stack Projects. I am from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Pune, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Fresno, California</b>. </p>
 <!--
 **shantanu609/shantanu609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+--!>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
