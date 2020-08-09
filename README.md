@@ -4,7 +4,6 @@
 <!--
 **shantanu609/shantanu609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
-Here are some ideas to get you started:
 
 <h3>Things I code with</h3>
 <p>
@@ -33,6 +32,9 @@ Here are some ideas to get you started:
   <img alt="Python" src ="https://img.shields.io/badge/Python-Green"/>
   <img alt="Flask" src ="https://img.shields.io/badge/Flask-Green"/>
 </p>
+
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
