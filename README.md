@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, Welcome to my Profile. </h1>
 
-<p> I'm Shantanu. I am a Graduate Student at Fresno State. Worked as a Software Engineer for 3+ years and currently a Full time Graduate Student mastering and griding Full Stack Projects. I am from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Pune, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Fresno, California</b>. </p>
+<p> I'm Shantanu. I am a Graduate Student at Fresno State. Worked as a Software Engineer for 3+ years and currently a Full time Graduate Student mastering and griding Full Stack Projects. I am from <img src="https://image.flaticon.com/icons/png/512/555/555462.png" width="13"/> <b>Pune, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/940/940207.svg" width="13"/> <b>Fresno, California</b>. </p>
 <!--
 **shantanu609/shantanu609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
