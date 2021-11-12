@@ -1,7 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello</h1>
 
-<p> Experienced Software Engineer working at Servicenow</p>
-<p> Worked as a Software Engineer for 3+ years and currently a Full time Graduate Student mastering and griding Full Stack Projects. I am from <img src="https://image.flaticon.com/icons/png/512/555/555462.png" width="13"/> <b>Pune, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/940/940207.svg" width="13"/> <b>Fresno, California</b>. </p>
+<p> I am a experienced Software Engineer working at <b>Servicenow</b>.</p>
+<p> Educational Background:</p>
+<ul>
+  <li><b>Masters Degree</b> in <u> Computer Science </u> from <b>California State University, Fresno State</b></li>
+  <li><b>Bachelor's Degree</b> in <u>Information Technology</u> from <b>Pune University</b></li>
+ </ul>
+<p> I have more than 3 years of work experience as a Software Engineer in India. I spend time most of the time coding, solving problems and looking at other teammates PR.</p>
+<p>Short Bio: I am from <b>Pune, India <img src="https://img.icons8.com/color/48/000000/india-circular.png"/></b>, currently living in <b>San Diego, California</b> <img src="https://img.icons8.com/color/48/000000/usa-circular.png"/></p>
 <!--
 **shantanu609/shantanu609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
